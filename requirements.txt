@@ -25,6 +25,6 @@ path~=16.2.0
 cloudcomponents.cdk-pull-request-approval-rule
 cloudcomponents.cdk_pull_request_check
 checkov~=2.0.359
-moto~=2.2.3
+moto==2.3.2
 haversine==2.5.1
 cdk-watchful==0.5.300
