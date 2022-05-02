@@ -27,4 +27,4 @@ cloudcomponents.cdk_pull_request_check
 checkov~=2.0.359
 moto~=2.2.3
 haversine==2.5.1
-cdk-watchful==0.5.300
+cdk-watchful==0.6.106
